@@ -1,4 +1,4 @@
-Sure, I can provide you with a simple React example that demonstrates how to read and write data to localStorage. In this example, we'll create a simple counter application that allows you to increment and save the counter value to localStorage.
+a simple React example that demonstrates how to read and write data to localStorage. In this example, we'll create a simple counter application that allows you to increment and save the counter value to localStorage.
 
 First, make sure you have React and ReactDOM installed. You can set up a new React app using Create React App or use an existing one.
 
